@@ -1,6 +1,6 @@
 /*!
 * js-data
-* @version 4.0.0-beta.1 - Homepage <http://www.js-data.io/>
+* @version 4.0.0-beta.3 - Homepage <http://www.js-data.io/>
 * @author js-data project authors
 * @copyright (c) 2014-2016 js-data project authors
 * @license MIT <https://github.com/js-data/js-data/blob/master/LICENSE>
@@ -12681,8 +12681,8 @@
      * @type {Object}
      */
     var version = {
-  beta: 1,
-  full: '4.0.0-beta.1',
+  beta: 3,
+  full: '4.0.0-beta.3',
   major: 4,
   minor: 0,
   patch: 0

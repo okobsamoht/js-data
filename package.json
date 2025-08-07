@@ -78,17 +78,17 @@
     "ink-docstrap": "git+https://github.com/js-data/docstrap.git#cfbe45fa313e1628c493076d5e15d2b855dfbf2c",
     "lint-staged": "^10.0.7",
     "lodash": "^4.17.15",
-    "mocha": "^7.0.0",
+    "mocha": "^11.7.1",
     "nyc": "15.0.0",
     "prettier-standard": "^16.1.0",
-    "rollup": "^1.31.0",
+    "rollup": "^1.32.1",
     "rollup-plugin-typescript2": "^0.25.3",
     "sinon": "^8.1.0",
     "standard": "^14.3.1",
     "ts-node": "^8.6.2",
-    "tslib": "^1.10.0",
+    "tslib": "^2.8.1",
     "typedoc": "^0.16.9",
     "typescript": "^3.7.5",
-    "uglify-js": "^3.7.6"
+    "uglify-js": "^3.19.3"
   }
 }
